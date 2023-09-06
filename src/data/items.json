@@ -1,0 +1,27 @@
+
+[
+    {
+      "id": 1,
+      "name": "Clothes",
+      "price":1000,
+      "imgUrl": "/assets/levi16.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Clothes",
+      "price": 1199,
+      "imgUrl":"/assets/levi18.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Clothes",
+      "price": 999,
+      "imgUrl":"/assets/levi19.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Clothes",
+        "price": 1500,
+        "imgUrl": "/assets/levi21.jpg"
+      }
+  ]
